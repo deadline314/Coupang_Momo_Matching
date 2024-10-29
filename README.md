@@ -54,7 +54,7 @@ pip install -r requirements.txt
 
 1. **語意模型載入**：預先載入模型以準備進行語意匹配。
 2. **輸入檔案準備**：
-   - 搜尋詞檔案 (`{student_id}_queries.txt`) 包含用於 MOMO 搜尋的關鍵詞。
+   - 搜尋詞檔案 (`./queries/{student_id}_queries.txt`) 包含用於 MOMO 搜尋的關鍵詞。
    - 商品資料檔案 (`./results/{student_id}_{search_term}.csv`) 包含本地產品名稱。
 3. **執行程式**：
    - 根據搜尋詞從 MOMO 爬取商品，計算嵌入向量，並與本地商品名稱進行相似度計算。
