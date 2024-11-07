@@ -7,3 +7,4 @@ optimum
 onnxruntime
 cmake
 matplotlib
+bs4
