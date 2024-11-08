@@ -1,4 +1,4 @@
-# Coupang_Momo_Matching商品名稱匹配專案
+# Coupang Momo Matching 商品匹配
 此習題使用深度學習語意模型和網頁爬蟲技術，從 MOMO 購物網擷取商品資料並與本地商品資料庫進行相似度匹配。同學可以根據需求調整搜尋詞及相似度匹配的門檻值等參數，以達成更精確的商品匹配結果。
 
 **For NTUST EE5327701 class**
